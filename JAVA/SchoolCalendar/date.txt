@@ -1,0 +1,12 @@
+Date: 20130806
+Class 1:
+-this is a completed item class 1
++this is a inprogress item class 1
+Class 2:
+-this is a completed item class 2
+-this is a completed item 2 class 2
++this is a inprogress item class 2
+Class 3:
+-this is a completed item class 3
++this is a inprogress item class 3
+-----------------------------------------------

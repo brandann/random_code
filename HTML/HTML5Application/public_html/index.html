@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Brandan's web test</title>
+    </head>
+<body
+    bgcolor="#000000" text="#ffffff" >
+    
+<div align="center">
+<b><font size="24" color="#ffffff">Northshore Library Search Results</font></b>
+    <br>
+    <br>
+<p>Click one of the buttons to call a function with arguments</p>
+
+<button onclick="myFunction('Harry Potter','Wizard')">Harry Potter</button>
+<button onclick="black()">Black!</button>
+<button onclick="HELLO()">name</button><br>
+<button onclick="opensearch()">open</button>
+
+<p id="demo"></p>
+
+<script>function opensearch(){
+    document.open("whatever.html");
+}</script>
+    <script>
+        function myFunction(name,job)
+        {
+            alert("Welcome " + name + ", the " + job);
+        }
+    </script>
+    
+    <script>
+        function black()
+        {
+            x = 3
+            alert("Available Width: " + x);
+        }
+    </script>
+    
+    <script>
+        var x =  screen.availWidth
+        document.write("Available Width: " + x);
+    </script>
+    
+    <script>
+    function HELLO()
+    {
+        var y;
+        var person=prompt("Please enter your name","Harry Potter");
+
+        if (person!=null)
+            {
+            y="Hello " + person + "! How are you today?";
+            document.getElementById("demo").innerHTML=y;
+            }
+    }
+    </script>
+
+</body>
+</html>
