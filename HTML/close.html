@@ -1,0 +1,32 @@
+<a href="javascript:window.close()">Close Window</a><br><br></font>
+<a href="javascript:window.new()">New Window</a><br><br></font>
+
+<html>
+<head>
+<script>
+function open_win()
+{
+window.open("http://www.w3schools.com")
+}
+</script>
+</head>
+<body>
+
+<input type="button" value="Open Window" onclick="open_win()">
+
+</body>
+</html>
+
+
+<html>
+<body>
+
+<script>
+myWindow=window.open('','','width=200,height=100')
+myWindow.document.write("<p>This is 'myWindow'</p>")
+<input type="button" value="Open Window" onclick="open_win()">
+myWindow.focus()
+</script>
+
+</body>
+</html>

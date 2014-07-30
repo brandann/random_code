@@ -1,0 +1,9 @@
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.exe
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.pdb
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\bin\Debug\DeleteFiles.xml
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.Form1.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.Resources.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.vbproj.GenerateResource.Cache
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.exe
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.xml
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Debug\DeleteFiles.pdb

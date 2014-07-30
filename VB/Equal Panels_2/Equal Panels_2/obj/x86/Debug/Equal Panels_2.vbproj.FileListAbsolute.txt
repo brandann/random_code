@@ -1,0 +1,11 @@
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\bin\Debug\Equal Panels_2.exe
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\bin\Debug\Equal Panels_2.pdb
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\bin\Debug\Equal Panels_2.xml
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\Equal_Panels_2.Form1.resources
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\Equal_Panels_2.Resources.resources
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\Equal Panels_2.exe
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\Equal Panels_2.xml
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\Equal Panels_2\obj\x86\Debug\Equal Panels_2.pdb

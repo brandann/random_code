@@ -1,0 +1,18 @@
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\bin\Release\DeleteFiles.exe
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\bin\Release\DeleteFiles.pdb
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\bin\Release\DeleteFiles.xml
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\obj\x86\Release\DeleteFiles.Form1.resources
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\obj\x86\Release\DeleteFiles.Resources.resources
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\obj\x86\Release\DeleteFiles.vbproj.GenerateResource.Cache
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\obj\x86\Release\DeleteFiles.exe
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\obj\x86\Release\DeleteFiles.xml
+C:\Users\brandan.NSSM\AppData\Local\Temporary Projects\DeleteFiles\obj\x86\Release\DeleteFiles.pdb
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Release\DeleteFiles.exe
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Release\DeleteFiles.xml
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Release\DeleteFiles.pdb
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\bin\Release\DeleteFiles.exe
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\bin\Release\DeleteFiles.pdb
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\bin\Release\DeleteFiles.xml
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Release\DeleteFiles.Form1.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Release\DeleteFiles.Resources.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\DeleteFiles\DeleteFiles\obj\x86\Release\DeleteFiles.vbproj.GenerateResource.Cache
